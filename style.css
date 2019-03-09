@@ -1,0 +1,76 @@
+* {
+    font-family: fantasy;
+    margin: 0px;
+}
+
+nav {
+    background-color: coral;
+    line-height: 50px;
+    text-align: center
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    text-decoration: none;
+    display: block;
+    padding: 0 20px
+
+}
+
+nav a:hover {
+    background-color: aliceblue
+}
+
+section {
+    background-color: azure;
+    width: 85%;
+    height: 550px;
+    float: left;
+}
+
+aside {
+    background-color: darkgoldenrod;
+    float: left;
+    width: 15%;
+    height: 550px;
+    text-align: center;
+    
+
+}
+
+footer {
+    background-color: firebrick;
+    height: 35px;
+    clear: both;
+}
+
+header {
+    background-color: rgb(0, 216, 255);
+    height: 70px;
+    font-size: 50px;
+    color: fuchsia;
+    text-align: center;
+    padding: 20px;
+}
+
+article {
+    padding: 20px;
+
+
+}
+
+p {
+    color: darkviolet;
+    text-align: justify;
+    line-height: 25px;
+    padding-top: 5px;
+
+}
+
+h3 {
+    color: darkolivegreen;
+    font-size: 22px
+}
